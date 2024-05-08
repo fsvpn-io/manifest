@@ -1,0 +1,13 @@
+{
+    "apiGateway": "https://api.pancakevpn.com",
+    "android": {
+        "version": "1.0.5",
+        "version_code": 1.05,
+        "update_url": "https://github.com"
+    },
+    "metadata": {
+        "telegram_channel": "FsVPNChannel",
+        "telegram_support": "FsVPNSupport"
+    },
+    "terminate": false
+}
