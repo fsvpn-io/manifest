@@ -1,5 +1,5 @@
 {
-    "apiGateway": "https://api.pancakevpn.com",
+    "api_gateway": "https://api.pancakevpn.com",
     "android": {
         "version": "1.0.5",
         "version_code": 1.05,
